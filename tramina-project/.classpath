@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="tramina/src/main/java"/>
+	<classpathentry kind="src" path="tramina/src/main/resources"/>
+	<classpathentry kind="src" path="tramina/src/test/java"/>
+	<classpathentry kind="src" path="tramina/src/test/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry exported="true" kind="lib" path="tramina/lib/jta-1.1.jar" sourcepath="tramina/libsrc/jta-1.1-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="tramina/lib/slf4j-api-1.5.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="tramina/lib/slf4j-ext-1.5.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="tramina/lib/slf4j-log4j12-1.5.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="tramina/lib/log4j-1.2.13.jar"/>
+	<classpathentry exported="true" kind="lib" path="tramina/lib/junit-4.5.jar" sourcepath="tramina/libsrc/junit-4.5-src.jar"/>
+	<classpathentry exported="true" kind="lib" path="tramina/lib/easymock-2.5.2.jar" sourcepath="tramina/libsrc/easymock-2.5.2-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="tramina/lib/easymockclassextension-2.5.2.jar" sourcepath="tramina/libsrc/easymockclassextension-2.5.2-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="tramina/lib/cglib-nodep-2.2.jar" sourcepath="tramina/libsrc/cglib-nodep-2.2-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="tramina/lib/objenesis-1.2.jar" sourcepath="tramina/libsrc/objenesis-1.2-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="tramina/lib/h2-1.2.132.jar" sourcepath="tramina/libsrc/h2-1.2.132-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
